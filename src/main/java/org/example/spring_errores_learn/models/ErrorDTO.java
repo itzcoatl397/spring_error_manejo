@@ -2,7 +2,7 @@ package org.example.spring_errores_learn.models;
 
 import java.util.Date;
 
-public class Error {
+public class ErrorDTO {
 
     private  String message;
     private String error;
